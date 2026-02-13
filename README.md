@@ -39,7 +39,4 @@ The project demonstrates data preprocessing and collaborative filtering using Py
 - Set Operations
 - Dictionary-based Scoring
 
----
-
-## 📂 Project Structure
 
